@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "D:/Development/My C++/Qt Projects/Notepad/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/Notepad_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Development/My C++/Qt Projects/Notepad/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Development/My C++/Qt Projects/Notepad/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Development/My C++/Qt Projects/Notepad",
+	"CMAKE_SOURCE_DIR" : "D:/Development/My C++/Qt Projects/Notepad",
+	"INCLUDE_DIR" : "D:/Development/My C++/Qt Projects/Notepad/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/Notepad_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/Development/My C++/Qt Projects/Notepad/Resources/Paste.bmp",
+		"D:/Development/My C++/Qt Projects/Notepad/Resources/Open.bmp",
+		"D:/Development/My C++/Qt Projects/Notepad/Resources/Save.bmp",
+		"D:/Development/My C++/Qt Projects/Notepad/Resources/New.bmp",
+		"D:/Development/My C++/Qt Projects/Notepad/Resources/Cut.bmp",
+		"D:/Development/My C++/Qt Projects/Notepad/Resources/DeleteSticky.bmp",
+		"D:/Development/My C++/Qt Projects/Notepad/Resources/Copy.bmp"
+	],
+	"LOCK_FILE" : "D:/Development/My C++/Qt Projects/Notepad/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/CMakeFiles/Notepad_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "Resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Development/My C++/Qt Projects/Notepad/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/CMakeFiles/Notepad_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/Development/My C++/Qt Projects/Notepad/Resources.qrc",
+	"VERBOSITY" : 0
+}
